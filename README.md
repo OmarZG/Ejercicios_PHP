@@ -14,9 +14,9 @@
 - Constantes
 
 ## 2 Operadores
--Operadores aritmeticos
--Operaciones relacionales
--Cómo se usan los Operadores lógicos
+- Operadores aritmeticos
+- Operaciones relacionales
+- Cómo se usan los Operadores lógicos
 
 ## 3 Condiciones, ciclos y funciones
 - Cómo usar el if anidado
