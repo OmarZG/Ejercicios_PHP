@@ -1,9 +1,9 @@
 
 <?php
 
-if($_GET) {
+if($_POST) {
 
-$nombre=$_GET['txtNombre'];
+$nombre=$_POST['txtNombre'];
 $nombre = "<h1>Hola ".$nombre."</h1>";
 
 echo $nombre;

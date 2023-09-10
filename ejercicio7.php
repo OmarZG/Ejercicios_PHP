@@ -1,5 +1,5 @@
 <?php
-
+// Constantes
 $edad=32;
 echo "La esdad es ".$edad."<br/>";
 

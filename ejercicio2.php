@@ -1,8 +1,14 @@
 
 <?php
 
+// Se valida si se envio información
 if($_POST) {
 
+/*
+Se obtienen valores del formulario:
+variable txtNombre
+
+*/
 $nombre=$_POST['txtNombre'];
 $nombre = "<h1>Hola ".$nombre."</h1>";
 
@@ -15,7 +21,7 @@ echo $nombre;
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Comentario cortos y largos</title>
 </head>
 <body>
     <form action="ejercicio2.php" method="post">

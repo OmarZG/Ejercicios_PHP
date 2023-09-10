@@ -1,5 +1,5 @@
 <?php
-
+// Tipos de datos
 $edad=32;
 $nombre="Oscar";
 $altura=1.4;
